@@ -5,6 +5,6 @@ web and mobile applications smartly </h1>
 
 <div>
 <a href="[https://pingucoder.com/](https://samarayadi.github.io/YoutubyTNBoot.github.io/)">YoutubyTN-Bootstrap</a>
-<a href="https://pingucoder.com/">learn coding web</a>
+
 </div>
 </div> 
